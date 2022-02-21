@@ -32,7 +32,13 @@ public class EfrainCumbicusCoches {
 		this.añoFab = añoFab;
 	}
 
-
+	public void loop() {
+		for(int i=0;i<1000;i++) {
+			
+			System.out.println("COCHES");
+		}
+		
+	}
 
 
 
