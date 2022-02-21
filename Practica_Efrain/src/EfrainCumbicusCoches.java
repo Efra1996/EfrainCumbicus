@@ -28,6 +28,9 @@ public class EfrainCumbicusCoches {
 		return añoFab;
 	}
 
+	public void setAñoFab(int añoFab) {
+		this.añoFab = añoFab;
+	}
 
 
 
